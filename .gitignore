@@ -9,4 +9,5 @@ db/*.sqlite3
 TODO
 public/assets/**/*
 public/system/**/*
+*~
 public/stylesheets/compiled/**/*
